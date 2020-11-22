@@ -1,0 +1,8 @@
+XSS is Cross Site Scripting
+<script>
+loaction.herf='https://naver.com';
+</script>
+
+asd
+
+asd
